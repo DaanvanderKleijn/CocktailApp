@@ -1,0 +1,16 @@
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\bin\Debug\netstandard2.0\CocktailApp.deps.json
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\bin\Debug\netstandard2.0\CocktailApp.dll
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\CocktailApp.csprojAssemblyReference.cache
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\CocktailApp.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\CocktailApp.AssemblyInfoInputs.cache
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\CocktailApp.AssemblyInfo.cs
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\bin\Debug\netstandard2.0\CocktailApp.pdb
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\CocktailApp.dll
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\CocktailApp.pdb
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\View\Achievements.xaml.g.cs
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\View\Categorieën.xaml.g.cs
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\View\EULA.xaml.g.cs
+C:\wamp64\www\Radius\lj3\VHT\App\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\View\Instellingen.xaml.g.cs
